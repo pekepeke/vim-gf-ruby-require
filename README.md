@@ -1,20 +1,20 @@
-vim-gf-ruby-require
+gf-ruby-require
 =================
 
-A plugin to open file by require statement with |gf-user|.
+A plugin to open file at require statement by |gf-user|.
 
 Version: 0.0.1  
 Author : pekepeke <pekepekesamurai+vim@gmail.com>  
 License: MIT{{{  
 Permission is hereby granted, free of charge, to any person obtaining a copy of  
-this software and associated documentation files (the "Software"), to deal in 
+this software and associated documentation files (the "Software"), to deal in  
 the Software without restriction, including without limitation the rights to  
 use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of  
 the Software, and to permit persons to whom the Software is furnished to do so,  
-subject to the following conditions:
+subject to the following conditions:  
 
 The above copyright notice and this permission notice shall be included in  
-all copies or substantial portions of the Software.
+all copies or substantial portions of the Software.  
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,  
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF  
@@ -27,12 +27,12 @@ OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## INTRODUCTION
 
-*vim-gf-ruby-require* is a Vim plugin to provide  to open file by require statement.
+*gf-ruby-require* is a Vim plugin to provide at open file on require statement.
 
 Requirement:  
-	- |gf-user| (Recommend latest version at http://github.com/kana/vim-gf-user)
-	- ruby
-	- bundler (optional)
-	- |vimconsole| (for debug)(Recommend latest version at http://github.com/rbtnn/vimconsole.vim)
+	- |gf-user| (Recommend latest version at http://github.com/kana/vim-gf-user)  
+	- ruby  
+	- bundler (optional)  
+	- |vimconsole| (for debug)(Recommend latest version at http://github.com/rbtnn/vimconsole.vim)  
 
 
